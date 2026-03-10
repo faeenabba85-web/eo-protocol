@@ -40,3 +40,5 @@ Its architecture is designed to support scalable and intelligent Web3 applicatio
   - Answering questions that none of us even knew we had about the protocol and official packet reader
 
 Developers can easily integrate decentralized components into their applications using Endless infrastructure.
+
+Documentation update 1
