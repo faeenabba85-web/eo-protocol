@@ -13,11 +13,8 @@ Use cases
 
 Community projects based on this specification.
 
-### Libraries
-
-1. **[eolib-dotnet](https://github.com/ethanmoffat/eolib-dotnet)** ([@ethanmoffat](https://github.com/ethanmoffat))
-    * Core .NET library for writing Endless Online applications.
-2. **[eolib-go](https://github.com/ethanmoffat/eolib-go)** ([@ethanmoffat](https://github.com/ethanmoffat))
+With Endless Protocol, developers can build applications faster while maintaining security and performance.
+ **[eolib-go](https://github.com/ethanmoffat/eolib-go)** ([@ethanmoffat](https://github.com/ethanmoffat))
     * Core Golang library for writing Endless Online applications.
 3. **[eolib-java](https://github.com/cirras/eolib-java)** ([@cirras](https://github.com/cirras))
     * Core Java library for writing Endless Online applications.
