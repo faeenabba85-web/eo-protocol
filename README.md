@@ -1,4 +1,4 @@
-# EO Protocol
+endless protocol is redefining the word infrastructure 
 
 An XML-based specification of the Endless Online network protocol and data files.
 
