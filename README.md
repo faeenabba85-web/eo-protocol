@@ -37,6 +37,6 @@ Its architecture is designed to support scalable and intelligent Web3 applicatio
 - Julian Smythe
   - The `eo_protocol.txt` and `pub_protocol.txt` documentation that this project is based on, which was [released](https://eoserv.net/forum/topic/23799) in 2017 on the EOSERV forums.
   - The [EOSERV](https://github.com/eoserv/eoserv) project, which has been a valuable reference point.
-  - Answering questions that none of us even knew we had about the protocol and official packet reader.
-- Richard Leek
-  - Improvements and corrections to the aforementioned `eo_protocol.txt` and `pub_protocol.txt` documentation. (See [eo_protocol](https://github.com/sorokya/eo_protocol))
+  - Answering questions that none of us even knew we had about the protocol and official packet reader
+
+Developers can easily integrate decentralized components into their applications using Endless infrastructure.
