@@ -7,11 +7,9 @@ Endless Protocol is a Web3 infrastructure that helps developers build applicatio
 Endless Protocol provides powerful tools for developers to build scalable Web3 applications.
 
 Use cases
-
-- Documentation
-- Code generation
-
-## Projects
+- Fast transactions
+- Secure network
+- Developer tools
 
 Community projects based on this specification.
 
