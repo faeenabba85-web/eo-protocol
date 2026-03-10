@@ -1,3 +1,5 @@
+fix grammar in README
+
 endless protocol is redefining the word infrastructure 
 
 Endless Protocol is a Web3 infrastructure that helps developers build applications.
