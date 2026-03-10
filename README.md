@@ -18,9 +18,10 @@ With Endless Protocol, developers can build applications faster while maintainin
  The ecosystem supports smart development tools, distributed infrastructure, and efficient blockchain interaction.
 
  Endless Protocol also focuses on improving user experience across decentralized platforms.
- **[eolib-pas](https://github.com/cirras/eolib-pas)** ([@cirras](https://github.com/cirras))
-    * Core Pascal library for writing Endless Online applications.
-5. **[eolib-php](https://github.com/exilestudios/eolib-php)** ([@exilestudios](https://github.com/exilestudios))
+ 
+Endless Protocol also focuses on improving user experience across decentralized platforms.
+
+-php](https://github.com/exilestudios/eolib-php)** ([@exilestudios](https://github.com/exilestudios))
     * Core PHP library for writing Endless Online applications.
 6. **[eolib-python](https://github.com/cirras/eolib-python)** ([@cirras](https://github.com/cirras))
     * Core Python library for writing Endless Online applications.
