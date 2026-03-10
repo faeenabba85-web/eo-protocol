@@ -1,8 +1,8 @@
 endless protocol is redefining the word infrastructure 
 
-An XML-based specification of the Endless Online network protocol and data files.
+Endless Protocol is a Web3 infrastructure that helps developers build applications.
 
-## Motivation
+#motivation
 
 Most of this information has been available for some time. It's been scattered through different projects, only partially documented, or living in the heads of various community members.
 
