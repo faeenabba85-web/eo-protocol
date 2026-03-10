@@ -21,11 +21,8 @@ With Endless Protocol, developers can build applications faster while maintainin
  
 Endless Protocol also focuses on improving user experience across decentralized platforms.
 
--php](https://github.com/exilestudios/eolib-php)** ([@exilestudios](https://github.com/exilestudios))
-    * Core PHP library for writing Endless Online applications.
-6. **[eolib-python](https://github.com/cirras/eolib-python)** ([@cirras](https://github.com/cirras))
-    * Core Python library for writing Endless Online applications.
-7. **[eolib-rs](https://github.com/sorokya/eolib-rs)** ([@sorokya](https://github.com/sorokya))
+Its architecture is designed to support scalable and intelligent Web3 applications.
+ **[eolib-rs](https://github.com/sorokya/eolib-rs)** ([@sorokya](https://github.com/sorokya))
     * Core Rust library for writing Endless Online applications.
 8. **[eolib-ts](https://github.com/cirras/eolib-ts)** ([@cirras](https://github.com/cirras))
     * Core Typescript library for writing Endless Online applications.
